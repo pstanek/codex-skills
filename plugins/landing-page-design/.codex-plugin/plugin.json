@@ -1,0 +1,22 @@
+{
+  "name": "landing-page-design",
+  "version": "0.1.0",
+  "description": "Strategy, conversion, and visual-system rules for high-converting landing pages and web UI.",
+  "author": {
+    "name": "pstanek"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Landing Page Design",
+    "shortDescription": "Build conversion-focused landing pages with a strict visual system.",
+    "longDescription": "A complete landing-page workflow: intake, page structure, conversion copy, SEO, accessibility, and visual rules for typography, spacing, motion, and states.",
+    "developerName": "pstanek",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Create a conversion-focused landing page for my offer.",
+      "Review this landing page against the visual system.",
+      "Write landing-page copy and an SEO outline for this product."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pstanek-skills",
+  "interface": {
+    "displayName": "pstanek skills"
+  },
+  "plugins": [
+    {
+      "name": "landing-page-design",
+      "source": {
+        "source": "local",
+        "path": "./plugins/landing-page-design"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
