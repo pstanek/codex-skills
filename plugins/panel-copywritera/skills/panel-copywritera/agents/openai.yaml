@@ -1,0 +1,4 @@
+interface:
+  display_name: "Panel copywritera"
+  short_description: "Optymalizuj copy z panelem ekspertów"
+  default_prompt: "Użyj $panel-copywritera, aby przeanalizować i poprawić ten landing page."

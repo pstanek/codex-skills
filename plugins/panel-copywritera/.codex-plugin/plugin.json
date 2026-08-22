@@ -1,0 +1,22 @@
+{
+  "name": "panel-copywritera",
+  "version": "0.1.0",
+  "description": "Iteracyjna optymalizacja polskiego copy sprzedażowego z panelem pięciu perspektyw direct response.",
+  "author": {
+    "name": "Digitalk / Suasio"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Panel copywritera",
+    "shortDescription": "Optymalizuj copy panelem ekspertów.",
+    "longDescription": "Prowadzi pełny tekst sprzedażowy przez 2–3 rundy krytyki pięciu szkół direct response, wdrożenie wybranych rekomendacji i korektę pod polski digital 2026.",
+    "developerName": "Digitalk / Suasio",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Przeanalizuj ten landing page panelem copywriterów.",
+      "Popraw tę reklamę Meta w dwóch rundach.",
+      "Zoptymalizuj cold mail bez zmiany jego struktury."
+    ]
+  }
+}

@@ -5,6 +5,7 @@ Personal Codex plugin marketplace. Each plugin groups related skills and can be 
 ## Included plugins
 
 - `landing-page-design` — landing-page strategy, conversion copy, SEO, and visual-system guidance.
+- `panel-copywritera` — iterative improvement of Polish sales copy using five direct-response perspectives.
 
 ## Add a skill
 
