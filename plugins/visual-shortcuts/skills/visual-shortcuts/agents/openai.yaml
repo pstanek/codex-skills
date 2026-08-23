@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual shortcuts"
+  short_description: "Stosuj 200 skrótów-promptów ze slashem."
+  default_prompt: "Użyj $visual-shortcuts do /blueprint na dołączonym zdjęciu."

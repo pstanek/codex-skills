@@ -1,0 +1,22 @@
+{
+  "name": "visual-shortcuts",
+  "version": "0.1.0",
+  "description": "Polish slash-command shortcuts for visual transformations, content creation, and structured AI work.",
+  "author": {
+    "name": "pstanek"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Visual Shortcuts",
+    "shortDescription": "Używaj 200 skrótów-promptów po polsku.",
+    "longDescription": "Rozpoznaje komendy ze slashem, takie jak /blueprint, /crosssection, /hook10 i /premortem, oraz stosuje właściwy format do tekstu lub obrazu.",
+    "developerName": "pstanek",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Użyj $visual-shortcuts do /blueprint na tym zdjęciu.",
+      "Użyj $visual-shortcuts do /hook10 dla filmu o mojej usłudze.",
+      "Użyj $visual-shortcuts do /premortem planu premiery."
+    ]
+  }
+}
