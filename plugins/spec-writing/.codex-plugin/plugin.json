@@ -1,0 +1,22 @@
+{
+  "name": "spec-writing",
+  "version": "0.1.0",
+  "description": "Specyfikacje implementacyjne przed nowym modułem lub zmianą architektury: status, zakres, warstwy, dane, testy.",
+  "author": {
+    "name": "pstanek"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Spec writing",
+    "shortDescription": "Pisz spec przed większą zmianą.",
+    "longDescription": "Planuje nowy moduł lub istotną zmianę architektury: status, zakres, warstwy, dane, fazy i testy. Prefiks i katalog speców bierze z AGENTS.md projektu.",
+    "developerName": "pstanek",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Napisz spec implementacyjną tego modułu.",
+      "Zamień ten zakres na spec bez ruszania kodu.",
+      "Sprawdź, czy ta zmiana w ogóle wymaga nowej specyfikacji."
+    ]
+  }
+}

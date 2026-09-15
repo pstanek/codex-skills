@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testing"
+  short_description: "Dobierz i napisz testy unit, integration i E2E"
+  default_prompt: "Użyj $testing i dobierz testy do tej zmiany."

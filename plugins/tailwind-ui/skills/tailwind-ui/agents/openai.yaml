@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tailwind UI"
+  short_description: "Składaj UI z shadcn, tokenów i Tailwind"
+  default_prompt: "Użyj $tailwind-ui przy stylowaniu tego widoku."

@@ -1,0 +1,22 @@
+{
+  "name": "repository-writing",
+  "version": "0.1.0",
+  "description": "Granice serwis vs repozytorium: server-only, DTO, tenant, typowane błędy integracji.",
+  "author": {
+    "name": "pstanek"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Repository writing",
+    "shortDescription": "Pisz repozytoria bez wycieku uprawnień.",
+    "longDescription": "Trzyma dostęp do danych w repozytoriach server-only, a logikę, transakcje i publikację w serwisie. Wymaga autoryzowanego kontekstu tenanta, walidacji DTO i jawnych stanów błędów.",
+    "developerName": "pstanek",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Rozdziel serwis i repozytorium w tej zmianie.",
+      "Dodaj repozytorium z filtrem tenanta.",
+      "Zmapuj błędy integracji bez zamiany ich na pustą listę."
+    ]
+  }
+}

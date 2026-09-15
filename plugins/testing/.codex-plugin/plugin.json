@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "0.1.0",
+  "description": "Dobór testów unit, integration, component i E2E: granice warstw, osobna baza testowa, zachowanie zamiast JSX.",
+  "author": {
+    "name": "pstanek"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Testing",
+    "shortDescription": "Testuj zachowanie, nie JSX.",
+    "longDescription": "Mówi kiedy pisać unit, integration, component i E2E. Mockuje granice warstw, wymaga osobnej bazy testowej i nie zalicza HTTP 200 jako kontroli UI. Scenariusze produktu zostają w AGENTS.md projektu.",
+    "developerName": "pstanek",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Dobierz testy do tej zmiany.",
+      "Napisz test na granicy serwis/repozytorium.",
+      "Sprawdź, czy ten flow wymaga E2E Playwright."
+    ]
+  }
+}

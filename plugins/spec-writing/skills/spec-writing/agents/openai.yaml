@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec writing"
+  short_description: "Pisz spec przed większą zmianą"
+  default_prompt: "Użyj $spec-writing, aby zaplanować ten moduł."

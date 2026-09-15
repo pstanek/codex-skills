@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repository writing"
+  short_description: "Pisz repozytoria z granicą serwisu i tenanta"
+  default_prompt: "Użyj $repository-writing przy tej zmianie dostępu do danych."

@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-ui",
+  "version": "0.1.0",
+  "description": "UI na Tailwind i shadcn: tokeny motywu, powierzchnie, mobilność i stany. Bez dowolnego CSS z danych.",
+  "author": {
+    "name": "pstanek"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Tailwind UI",
+    "shortDescription": "Składaj UI z shadcn i tokenów.",
+    "longDescription": "shadcn jako pierwszy wybór standardowych bloków, motyw na nazwane zmienne CSS, osobne powierzchnie bez wycieku selektorów, mobile-first i kontrola wizualna zamiast HTTP 200.",
+    "developerName": "pstanek",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Złóż ten widok na shadcn i tokenach motywu.",
+      "Sprawdź, czy te style nie ciekną na inną powierzchnię.",
+      "Zmapuj motyw na zmienne CSS bez dowolnego CSS z danych."
+    ]
+  }
+}
