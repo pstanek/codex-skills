@@ -2,6 +2,15 @@
 
 To repozytorium jest katalogiem **wielokrotnego użytku**. Nie ma tu kontraktu żadnego produktu.
 
+Podejście jak Open Mercato, bez ich pipeline’u:
+
+| Warstwa | Gdzie |
+| --- | --- |
+| Craft | to repo (`plugins/`) |
+| Kontrakt produktu | `AGENTS.md` (+ specy) w appie |
+| Skill tylko tego appa | dopiero gdy powstanie — źródło w appie, instalacja do `.agents/skills` |
+| Co skanują Cursor i Codex | `~/.agents/skills` (symlinki z `scripts/install-skills.sh`) oraz pluginy Codex |
+
 ## Co tu trzymać
 
 Skill należy tutaj, jeśli jego treść jest prawdziwa w drugim projekcie bez zmiany słów.

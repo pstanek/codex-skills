@@ -26,7 +26,13 @@ python3 /Users/pstanek/.codex/skills/.system/plugin-creator/scripts/validate_plu
 
 ## Use this marketplace locally
 
-From the repository root:
+Cursor and Codex user-level discovery (symlinks into `~/.agents/skills`):
+
+```bash
+./scripts/install-skills.sh
+```
+
+Codex plugins (optional, same files, Codex UI):
 
 ```bash
 codex plugin marketplace add "$PWD"
